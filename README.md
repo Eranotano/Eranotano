@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 Education
 - [Bachelor of Science in Information Technology]
-New Era University
+- New Era University
 
 
 
