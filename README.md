@@ -1,7 +1,10 @@
 # Hi, I'm [Erano Tano] 👋
 
 ## 👨‍🎓 Education
-- [Information Technology]
+- [Bachelor of Science in Information Technology]
+New Era University
+
+
 
 ## 🏅 Certifications
 - SQL and Relational Databases 101
