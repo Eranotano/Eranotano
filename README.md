@@ -4,7 +4,9 @@
 - [Information Technology]
 
 ## 🏅 Certifications
-- SQL and Relational Databases 101 (Cognitive Class)
+- SQL and Relational Databases 101
+- Cetificate Link: https://courses.cognitiveclass.ai/certificates/b9b729b0632b49cf867cc73a10824467
+  
 
 ## 🛠 Skillsets
 - HTML, CSS, JavaScript
