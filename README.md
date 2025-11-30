@@ -1,4 +1,4 @@
-# Hi, I'm [Eraño Tano Jr.] 👋
+# Hi, I'm [Eraño Tano Jr] 👋
 
 ## 👨‍🎓 Education
 - [Bachelor of Science in Information Technology]
