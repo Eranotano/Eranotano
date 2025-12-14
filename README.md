@@ -11,6 +11,7 @@
  Oracle Cloud Infrastructure Foundations Associate (2025)
  - Badge: [Oracle Cloud Infrastructure 2025 Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4D3F929BF49D9ACEE67B8F8E3AC36D05D8F3C952352DC851A00029B47B3AD409)
  - Badge: [Oracle Data Platform 2025 Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=11B1B67F7FB662B428FBB3CC80F8869B05D7CDDF5E4363D91B6902EFE2C7D75A)
+ - Badge: [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B0477F93A5439CBD6EF3FB44700ADE58F0B5FB5AD365AD8938AAD5E210AB6DB5)
 
   
 
